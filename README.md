@@ -7,7 +7,7 @@ This repository supports the final-year research project for BSSc in Data Scienc
 
 > **“Aligning Data Science Education with Labour Market Needs: A Comparative Analysis of Programme Design and Skill Demand in Hong Kong and London.”**
 
-The study investigates how well Data Science programmes in two global higher-education hubs-**Hong Kong** and **London**—align with skill requirements in the data-driven labour market.
+The study investigates how well Data Science programmes in two global higher-education hubs-**Hong Kong** and **London** align with skill requirements in the data-driven labour market.
 
 This repository contained the first part of this research. With Natural Language Processing (NLP) and topic modelling, the research aims to compare curricula across universities and map academic emphasis against employer-demanded competencies.
 
@@ -88,7 +88,7 @@ python -m spacy download en_core_web_sm
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/[yourusername]/data-science-education-alignment.git
+   git clone https://github.com/WPHdamian/data-science-education-alignment.git
    cd data-science-education-alignment
    ```
 2. Open Jupyter Notebook:
@@ -98,7 +98,7 @@ python -m spacy download en_core_web_sm
    ```
 3. Run notebooks sequentially inside `notebooks/`.
 4. Outputs (plots, CSVs, topic summaries) will appear in the `outputs/` folder.
-5. 
+
 ---
 
 ## References
